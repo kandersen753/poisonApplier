@@ -1,4 +1,4 @@
-# poisonApplier
+# Poison Application Trainer
 ## Kurt Andersen
 ### October 24, 2018
 
