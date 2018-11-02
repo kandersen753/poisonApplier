@@ -1,0 +1,6 @@
+## Interface: 80000
+## Title: Poison Applier
+## Author: Kurt Andersen (Harambe4Ever#1954)
+## Version: 1.0
+
+PoisonApplier.lua
